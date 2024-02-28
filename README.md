@@ -15,7 +15,7 @@ The application was designed accept and store a purchase transactions with the f
 
 ### 2: Retrieve a Purchase Transaction in a Specified Country’s Currency
 
-The application provides functionality to retrieve stored purchase transactions converted to currencies supported by the Treasury Reporting Rates of Exchange API. The retrieved purchase should include:
+The application provides functionality to retrieve stored purchase transactions converted to currencies supported by the Treasury Reporting Rates of Exchange API. The retrieved purchase returns:
 
 - Identifier
 - Description
