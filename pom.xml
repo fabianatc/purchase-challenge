@@ -8,11 +8,11 @@
         <version>3.2.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.wex</groupId>
-    <artifactId>wex-purchase</artifactId>
+    <groupId>com</groupId>
+    <artifactId>purchase</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>wex-purchase</name>
-    <description>Test project to WEX</description>
+    <name>purchase</name>
+    <description>Test project to purchase and country currency</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.0</spring-cloud.version>
