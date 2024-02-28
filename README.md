@@ -6,7 +6,7 @@ This project is a Purchase Transaction Management System built using Spring Boot
 
 ### 1: Store a Purchase Transaction
 
-The application must be able to accept and store a purchase transaction with the following fields:
+The application was designed accept and store a purchase transactions with the following fields:
 
 - **Description**: A description of the purchase, not exceeding 50 characters.
 - **Transaction Date**: The date of the transaction in a valid date format.
@@ -15,7 +15,7 @@ The application must be able to accept and store a purchase transaction with the
 
 ### 2: Retrieve a Purchase Transaction in a Specified Country’s Currency
 
-The application must provide functionality to retrieve stored purchase transactions converted to currencies supported by the Treasury Reporting Rates of Exchange API. The retrieved purchase should include:
+The application provides functionality to retrieve stored purchase transactions converted to currencies supported by the Treasury Reporting Rates of Exchange API. The retrieved purchase should include:
 
 - Identifier
 - Description
